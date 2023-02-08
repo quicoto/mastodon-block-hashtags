@@ -1,12 +1,14 @@
 # Blocking Hashtags from your Mastodon instance
 
-This repository contains a script for blocking / removing contents with certain tags and blocking their accounts.
+This repository contains a script for blocking / removing posts containing media with certain hash-tags and blocking their authors.
 
 ## Motivation
 
 When running a small or single user mastodon instance you often use relays to get content to your instance and increase reachability of your posts.
 
 This sadly increases the amount of content that reaches your instance from federated instances you may not want to host or spread.
+
+See [the blog post](https://blog.thms.uk/2023/02/mastodon-block-tags) for more details.
 
 ## What the script is doing
 
