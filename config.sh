@@ -1,5 +1,5 @@
 # Insert the URL to your instance
-serverURL='https://mstdn.thms.uk'
+serverURL='https://ricard.social'
 # Enable or disable multi user mode: 
 #  - If set to `true`, the script will not block any users that are followed by ANYONE on your instance
 #    This requires a token with `admin:write:accounts`, and `admin:read:accounts` access.
