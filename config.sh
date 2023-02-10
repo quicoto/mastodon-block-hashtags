@@ -5,7 +5,7 @@ serverURL='https://ricard.social'
 #    This requires a token with `admin:write:accounts`, and `admin:read:accounts` access.
 #  - If set to `false`, the script will only exempt users from blocking that you personally are following
 #    This requires a token with `read:accounts` and `admin:write:accounts` access.
-multiUserMode=true
+multiUserMode=false
 # The tags you want to block
 tags=(
     'boudoir'
