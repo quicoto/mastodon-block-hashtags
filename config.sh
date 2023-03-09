@@ -35,4 +35,5 @@ tags=(
     'nudewoman'
     'sexygay'
     'underwear'
+    'hentai'
 )
