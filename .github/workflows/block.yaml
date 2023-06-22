@@ -13,3 +13,5 @@ jobs:
 #      - uses: sergeysova/jq-action@v2
       - name: script
         run:  bash ${GITHUB_WORKSPACE}/block_hashtags.sh "${{ secrets.ACCESS_TOKEN }}"
+      - name: Keep workflow alive
+        uses: gautamkrishnar/keepalive-workflow@v1
