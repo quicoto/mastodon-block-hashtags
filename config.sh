@@ -8,6 +8,7 @@ serverURL='https://mstdn.thms.uk'
 multiUserMode=true
 # The tags you want to block
 tags=(
+    '診断メーカー'
     'boudoir'
     'cock'
     'gayboy'
