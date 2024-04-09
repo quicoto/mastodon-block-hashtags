@@ -8,6 +8,7 @@ serverURL='https://ricard.social'
 multiUserMode=false
 # The tags you want to block
 tags=(
+    '診断メーカー'
     'boudoir'
     'cock'
     'gayboy'
