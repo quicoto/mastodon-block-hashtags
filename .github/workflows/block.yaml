@@ -13,5 +13,6 @@ jobs:
 #      - uses: sergeysova/jq-action@v2
       - name: script
         run:  bash ${GITHUB_WORKSPACE}/block_hashtags.sh "${{ secrets.ACCESS_TOKEN }}"
-      - name: Keep workflow alive
-        uses: gautamkrishnar/keepalive-workflow@v1
+      # This repository has been removed by GitHub. Comment it out for now, until we figure out potential alternatives.
+      # - name: Keep workflow alive
+      #   uses: gautamkrishnar/keepalive-workflow@v1
